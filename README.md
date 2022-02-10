@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SheepDog403
-- 👀 I’m a hobbiest at the moment, interested in computer science, web and game development. I like the intersection between code and art and hope to use technology for artistic purposes.
+- 👀 I’m a hobbiest at the moment, interested in computer science, web and game development. I like the intersection between code and art and hope to use technology for artistic purposes. I'm the co-founder of Bean & Bear Media Ltd. in Calgary, AB where we work with small independent businesses to build an online presence and work on many of our own projects.
 - 🌱 I’m currently learning Git! HTML, CSS, Javascript! Unity!
 - 💞️ I’m looking to collaborate on ... I don't know - anything?
 - 📫 How to reach me: chrisbrignall.dev
